@@ -1,6 +1,6 @@
 # Hello there, I'm FischLord! 🎣 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
-[![YouTube: ger_fischlord](https://img.shields.io/badge/-ger_fischlord-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/ger_fischlord)](https://www.youtube.com/channel/ger_fischlord)
+[![YouTube: ger_fischlord](https://img.shields.io/badge/-ger_fischlord-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/ger_fischlord)](https://www.youtube.com/channel/@ger_fischlord5953)
 [![Twitch: ger_fischlord](https://img.shields.io/badge/-ger_fischlord-9146FF?style=for-the-badge&logo=Twitch&logoColor=white&link=https://www.twitch.tv/ger_fischlord)](https://www.twitch.tv/ger_fischlord)
 
 ![GitHub FischLord](https://img.shields.io/github/followers/FischLord?label=follow&style=social)
